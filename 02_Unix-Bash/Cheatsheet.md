@@ -207,7 +207,7 @@ sub-directories
 :   FIXME
 
 tab completion
-:   FIXME
+:   Command where, by pressing the tab key, the program automatically fills in partially typed commands. 
 
 uniq
 :   The command uniq removes (ONLY!) adjacent duplicated lines from its input.
