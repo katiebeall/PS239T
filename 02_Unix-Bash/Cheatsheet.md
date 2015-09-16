@@ -201,7 +201,7 @@ standard input
 :   standard input, abbreviated as stdin, is information inputted into the terminal through the keyboard or input device.
 
 standard output
-:   FIXME
+:   standard output, sometimes abbreviated stdout, refers to the standardized streams of data that are produced by command line programs (i.e., all-text mode programs)
 
 sub-directories
 :   FIXME
